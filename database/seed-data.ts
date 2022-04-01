@@ -18,12 +18,12 @@ export const seedData: SeedData = {
     {
       description: 'In-progress- excepteur laborum est laborum irure',
       status: 'in-progress',
-      createAt: Date.now() - 1000000,
+      createAt: Date.now() - 1000000000,
     },
     {
       description: 'Finished- laborum irure excepteur est',
       status: 'finished',
-      createAt: Date.now() - 100000,
+      createAt: Date.now() - 90000000,
     },
   ]
 }

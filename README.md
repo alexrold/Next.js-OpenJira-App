@@ -25,6 +25,13 @@ SSR, SSG, CSR, ISR, Middlewares, Rutas dinámicas, Next API, Next Auth, Material
 ## Configurar variables de entorno
 Renombrar el archivo: __.env.template__   a   __.env__
 
+
+## Reconstruir los modulos de node y levantar Next
+```
+  yarn install
+  yarn dev
+```
+
 ## Generar base de datos con información de pruebas
 Llamar:
 ```
